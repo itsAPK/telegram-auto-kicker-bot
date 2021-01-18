@@ -4,7 +4,7 @@
     "repository": "https://github.com/itsAPK/telegram-auto-kicker-bot.git",
     "image": "heroku/python",
     "env": {
-        "TELEGRAM_BOT_TOKEN": {
+        "TELEGRAM_TOKEN": {
         "description": "Get this value from @BotFather"
         },
         "TELEGRAM_APP_HASH":{
