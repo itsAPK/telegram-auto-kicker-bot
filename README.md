@@ -1,2 +1,7 @@
 # telegram-auto-kicker-bot
-help you to kick the all members from the group
+Telegram bot to kick the all members from the group
+
+# Deployment
+
+<b> Heroku </b>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
