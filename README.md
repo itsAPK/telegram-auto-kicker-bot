@@ -4,11 +4,18 @@ Telegram bot to kick the all members from the group
 # Deployment
 
 <b> Heroku </b><br>
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) <br>
 
 <b> Linux </b><br>
 
-1.Clone this response<br><br>
+1.Clone this respo<br><br>
 
-<pre>git clone https://github.com/itsAPK/telegram-auto-kicker-bot </pre>
+<pre>git clone https://github.com/itsAPK/telegram-auto-kicker-bot </pre><br>
+
+2.Open respo directory<br>
+
+<pre>cd telegram-auto-kicker-bot </pre>
+
+
 
