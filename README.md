@@ -30,4 +30,6 @@ Telegram bot to kick the all members from the group
 
 # Donate and Support 
 
-BTC : <code>3Lq4hmncqnL7nWei4nZ3urZCLdQ3HBQVBc</code>
+BTC : <code>3Lq4hmncqnL7nWei4nZ3urZCLdQ3HBQVBc</code><br>
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/itsAPK/)<br>
