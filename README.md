@@ -30,7 +30,6 @@ Telegram bot to kick the all members from the group
 
 # Donate and Support 
 
-<a href="https://coindrop.to/itsapk" target="_blank"><img src="https://coindrop.to/embed-button.png" style="border-radius: 10px; height: 45px !important;width: 150px !important;" alt="Coindrop.to me"></img></a>
+<a href="https://coindrop.to/itsapk" target="_blank"><img src="https://coindrop.to/embed-button.png" style="border-radius: 15px; height: 45px !important; width: 150px !important;" alt="Coindrop.to me"></img></a>
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/itsAPK/)<br>
+
